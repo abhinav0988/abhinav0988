@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Abhinav Mangal 👋
 
-<!--
-**abhinav0988/abhinav0988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Software Engineer | Node.js | TypeScript
 
-Here are some ideas to get you started:
+Backend Developer with 3+ years of experience building
+production backend services and scalable REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing reliable backend systems, optimizing
+database performance, and building event-driven applications.
+
+## 🛠️ Technical Skills
+
+- Languages: JavaScript, TypeScript
+- Backend: Node.js, Express.js, Fastify, REST APIs
+- Databases: MongoDB, PostgreSQL
+- Caching: Redis
+- Messaging: RabbitMQ
+- Real-time: Socket.IO
+- Cloud: AWS
+- Testing: Jest, Testcontainers
+- Tools: Git, Docker, GitHub Actions
+
+## 🚀 Featured Projects
+
+### RideFlow – Real-Time Ride Platform
+
+- Redis GEO-based driver discovery
+- Concurrency control using Redis and PostgreSQL
+- RabbitMQ and transactional outbox
+- Idempotency and retry handling
+
+Repository: https://github.com/abhinav0988/rideflow
+
+### Shortify – URL Shortener
+
+- URL shortening using Base62
+- Redis caching
+- MongoDB indexing
+- Atomic rate limiting using Redis Lua scripts
+- Click analytics
+
+Repository: https://github.com/abhinav0988/shortify
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abhinav-mangal-93020b134/
+- Portfolio: https://abhinav0988.github.io/portfolio
+- GitHub: https://github.com/abhinav0988
+- Email: abhinavmangal68@gmail.com
